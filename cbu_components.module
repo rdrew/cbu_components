@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the cbu_components feature.
+ */
+
+include_once 'cbu_components.features.inc';
